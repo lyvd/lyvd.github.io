@@ -5,7 +5,7 @@ My name is Ly Vu Duc, and I am from Binh Phuoc, Vietnam. Currently, I am a Ph.D 
 ### Education
 * 2010~2015: Studying Information Security Engineer at Posts and Telecommunications Institute of Technology HCM Branch, Vietnam.
 * 2015~2017: Master student Information Security at Hongik University, Korea
-* 2017~Current: Ph.D student Information Securit at University of Trento, Italy  
+* 2017~Current: Ph.D student Information Security at University of Trento, Italy  
 
 ### Software
 * [C2Ass](https://github.com/lyvd/C2Ass): Simluation of an assembly code using [Keystone engine](https://www.keystone-engine.org/)
