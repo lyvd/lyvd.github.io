@@ -22,6 +22,4 @@ My name is Ly Vu Duc, and I am from Binh Phuoc, Vietnam. Currently, I am a Ph.D 
 * <ins>Duc‐Ly Vu</ins>, Efficient Malware Classification Techniques Using Integrated Static and Dynamic Indicators. Master Thesis, Hongik University
  
 ### My contact
-You can contact me via email [ducly.vu@unitn.it](mailto:ducly.vu@unitn.it)
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can contact me via email [ducly.vu@unitn.it](mailto:ducly.vu@unitn.it) or [vuducly151092@gmail.com](mailto:vuducly151092@gmail.com) or tweet me [vuly16](https://twitter.com/vuly16)
