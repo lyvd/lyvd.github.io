@@ -29,9 +29,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Publications
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lyvd/lyvd.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Ivan Pashchenko, <ins>Duc-Ly Vu</ins>, Fabio Massacci. **A Qualitative Study of Dependency Management and Its Security Implications**, To Appear in Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2020
 
 ### My contact
 You can contact me via email [ducly.vu@unitn.it](mailto:ducly.vu@unitn.it)
