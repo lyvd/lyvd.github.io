@@ -2,6 +2,11 @@
 
 My name is Ly Vu Duc, and I am from Binh Phuoc, Vietnam. Currently, I am a Ph.D student at the Univerisity of Trento under the supervision of Prof. Fabio Massacci. 
 
+### Education
+* 2010~2015: Studying Information Security Engineer at Posts and Telecommunications Institute of Technology HCM Branch, Vietnam.
+* 2015~2017: Master student Information Security at Hongik University, Korea
+* 2017~Current: Ph.D student Information Securit at University of Trento, Italy  
+
 ### Software
 * [C2Ass](https://github.com/lyvd/C2Ass): Simluation of an assembly code using [Keystone engine](https://www.keystone-engine.org/)
 * [hit4mal](https://github.com/vuduclyunitn/image_based_malware_detection): A modified version of [scurve](https://github.com/cortesi/scurve) to capture semantic information of malwre using image processing.
