@@ -15,7 +15,7 @@ My name is Ly Vu Duc, and I am from Binh Phuoc, Vietnam. Currently, I am a Ph.D 
 * [hit4mal](https://github.com/vuduclyunitn/image_based_malware_detection): A modified version of [scurve](https://github.com/cortesi/scurve) to capture semantic information of malwre using image processing.
 
 ### Translations
-* [wtfpython in Vietnames](https://github.com/vuduclyunitn/wtfptyhon-vi)
+* [wtfpython in Vietnamese](https://github.com/vuduclyunitn/wtfptyhon-vi)
 
 ### Publications
 
