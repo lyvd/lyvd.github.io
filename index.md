@@ -8,6 +8,7 @@ My name is Ly Vu Duc, and I am from Vietnam. Currently, I am a Ph.D student at t
 
 ### Translations
 * [wtfpython in Vietnames](https://github.com/vuduclyunitn/wtfptyhon-vi)
+
 ### Publications
 
 * Ivan Pashchenko, <ins>Duc-Ly Vu</ins>, Fabio Massacci. **A Qualitative Study of Dependency Management and Its Security Implications**, To Appear in Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2020
