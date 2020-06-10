@@ -7,6 +7,9 @@ My name is Ly Vu Duc, and I am from Binh Phuoc, Vietnam. Currently, I am a Ph.D 
 * 2015~2017: Master student Information Security at Hongik University, Korea
 * 2017~Current: Ph.D student Information Security at University of Trento, Italy  
 
+### Industrial Experience
+* 2019~2020: I spent around six months during an internship at SAP Labs France about software supply chain attacks.
+
 ### Software
 * [C2Ass](https://github.com/lyvd/C2Ass): Simluation of an assembly code using [Keystone engine](https://www.keystone-engine.org/)
 * [hit4mal](https://github.com/vuduclyunitn/image_based_malware_detection): A modified version of [scurve](https://github.com/cortesi/scurve) to capture semantic information of malwre using image processing.
