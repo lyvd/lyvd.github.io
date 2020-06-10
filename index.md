@@ -3,10 +3,11 @@
 My name is Ly Vu Duc, and I am from Vietnam. Currently, I am a Ph.D student at the Univerisity of Trento under the supervision of Prof. Fabio Massacci. 
 
 ### Software
-[C2Ass](https://github.com/lyvd/C2Ass): Simluation of an assembly code using [Keystone engine](https://www.keystone-engine.org/)
+* [C2Ass](https://github.com/lyvd/C2Ass): Simluation of an assembly code using [Keystone engine](https://www.keystone-engine.org/)
+* [hit4mal](https://github.com/vuduclyunitn/image_based_malware_detection): A modified version of [scurve](https://github.com/cortesi/scurve) to capture semantic information of malwre using image processing.
+
 ### Translations
 * [wtfpython in Vietnames](https://github.com/vuduclyunitn/wtfptyhon-vi)
-
 ### Publications
 
 * Ivan Pashchenko, <ins>Duc-Ly Vu</ins>, Fabio Massacci. **A Qualitative Study of Dependency Management and Its Security Implications**, To Appear in Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2020
