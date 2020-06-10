@@ -1,9 +1,7 @@
 ## Welcome to my personal website
 
-My name is Ly Vu Duc, and I am from Vietnam. Currently, I am a Ph.D student at the Univerisity of Trento.
-You can use the [editor on GitHub](https://github.com/lyvd/lyvd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Ly Vu Duc, and I am from Vietnam. Currently, I am a Ph.D student at the Univerisity of Trento under the supervision of Prof. Fabio Massacci.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -34,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 * Ivan Pashchenko, <ins>Duc-Ly Vu</ins>, Fabio Massacci. **A Qualitative Study of Dependency Management and Its Security Implications**, To Appear in Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2020
 * Ivan Pashchenko, <ins>Duc-Ly Vu</ins>, Fabio Massacci. **Preliminary Findings on FOSS Dependencies and Security A Qualitative Study on Developers’ Attitudes and Experience**. In Proceedings of the 42nd International Conference on Software Engineering (ICSE), 2020
 * <ins>Duc‐Ly Vu</ins>, Trong‐Kha Nguyen, Tam V Nguyen, Tu N Nguyen, Fabio Massacci, Phu H Phung. **HIT4Mal: Hybrid image transformation for malware classification**. Transactions on Emerging Telecommunications Technologies, 2019
-
+ 
 ### My contact
 You can contact me via email [ducly.vu@unitn.it](mailto:ducly.vu@unitn.it)
 
