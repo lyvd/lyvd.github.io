@@ -24,7 +24,7 @@ My name is Ly Vu Duc, and I am from Binh Phuoc, Vietnam. Currently, I am a Ph.D 
 * Ivan Pashchenko, <ins>Duc-Ly Vu</ins>, Fabio Massacci. **[Poster]Preliminary Findings on FOSS Dependencies and Security A Qualitative Study on Developers’ Attitudes and Experience**. In Proceedings of the 42nd International Conference on Software Engineering (ICSE), 2020
 * <ins>Duc‐Ly Vu</ins>, Trong‐Kha Nguyen, Tam V Nguyen, Tu N Nguyen, Fabio Massacci, Phu H Phung. **HIT4Mal: Hybrid image transformation for malware classification**. Transactions on Emerging Telecommunications Technologies, 2019
 * <ins>Duc-Ly Vu</ins> and Nguyen, Trong-Kha and Nguyen, Tam and Nguyen, Tu and Massacci, Fabio and Phung, Phu H. **A Convolutional Transformation Network for Malware Classificatio** 6th NAFOSTED Conference on Information and Computer Science (NICS), 2019
-* <ins>Duc‐Ly Vu</ins>, Efficient Malware Classification Techniques Using Integrated Statc and Dynamic Indicators. Master Thesis, Hongik University
+* <ins>Duc‐Ly Vu</ins>, Efficient Malware Classification Techniques Using Integrated Statc and Dynamic Indicators. Master Thesis, Hongik University, 2017
  
 ### My contact
 You can contact me via email [ducly.vu@unitn.it](mailto:ducly.vu@unitn.it) or [vuducly151092@gmail.com](mailto:vuducly151092@gmail.com) or tweet me [vuly16](https://twitter.com/vuly16)
