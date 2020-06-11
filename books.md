@@ -6,5 +6,6 @@
 
 ### Python books
 * **Effective Python**. Brett Slatkin
+* **Python Tricks**. Dan Bader
 
 
