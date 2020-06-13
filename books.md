@@ -18,6 +18,7 @@
 * **Mining Social Media**. Lam Thuy Vo
 * **Data Science for Business**. Foster Provost and Tom Fawcett
 * **Storytelling With Data: A Data Visualization Guide for Business Professionals**. Cole Nussbaumer Knaflic
+* **Deep Learning with Python**. François Chollet
 
 ### Novel books
 * **1Q84**. Haruki Murakami
