@@ -14,6 +14,7 @@
 * **A Smarter Way to Learn Python**. Mark Myers
 * **Code craft**. Pete Goodliffe
 * **Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More**. Julien Danjou
+* **Python One-Liners: Write Concise, Eloquent Python Like a Professional**. Christian Mayer
 
 ### Data Science and Machine learning
 * **Mining Social Media**. Lam Thuy Vo
