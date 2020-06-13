@@ -17,6 +17,7 @@ My name is Ly Vu Duc, and I am from Binh Phuoc, Vietnam. Currently, I am a Ph.D 
 
 ### Translations
 * [wtfpython in Vietnamese](https://github.com/vuduclyunitn/wtfptyhon-vi)
+* [The Little Book of Python Anti-Patterns in Vietnamese](https://colab.research.google.com/github/vuduclyunitn/learning_python/blob/master/Anti_patterns.ipynb). 
 
 ### Favourite books
 * [books](books.md)
