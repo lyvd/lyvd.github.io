@@ -11,6 +11,7 @@
 * **Effective Python**. Brett Slatkin
 * **Python Tricks**. Dan Bader
 * **The Art of Readable Code**. Dustin Boswell and Trevor Foucher
+* **A Smarter Way to Learn Python**. Mark Myers
 
 ### Data Science and Machine learning
 * **Mining Social Media**. Lam Thuy Vo
