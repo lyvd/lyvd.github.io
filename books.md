@@ -26,6 +26,7 @@
 
 ### Security books
 * **Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software**. Andrew Honig and Michael Sikorski
+* **Malware Data Science: Attack Detection and Attribution**. Hillary Sanders and Joshua Saxe
 
 ### Novel books
 * **1Q84**. Haruki Murakami
