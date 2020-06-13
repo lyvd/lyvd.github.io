@@ -4,6 +4,7 @@
 * **A Mind of Numbers**. Barbara Oakley
 * **The Design of Everyday Things**. Don Norman
 * **The Master Key System**. Charles F Haanel
+* **Yes To Life**. Victor E. Frankl
 
 ### Python books
 * **Effective Python**. Brett Slatkin
