@@ -12,3 +12,5 @@
 
 ### Data Science and Machine learning
 * **Mining Social Media**. Lam Thuy Vo
+* **Data Science for Business**. Foster Provost and Tom Fawcett
+
