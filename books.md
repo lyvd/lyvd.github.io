@@ -40,3 +40,6 @@
 * **Den Cu**. Tran Dinh
 * **When the Allies Ran Away (Khi đồng minh tháo chạy)**. Nguyễn Tiến Hưng
 
+## Other books
+* **The Craft of Research**. Wayne C. Booth
+
