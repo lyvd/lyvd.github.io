@@ -35,4 +35,5 @@
 ## Historic Books
 * **The Winning Side (Ben Thang Cuoc)**. Huy Duc
 * **Den Cu**. Tran Dinh
+* **When the Allies Ran Away (Khi đồng minh tháo chạy)**. Nguyễn Tiến Hưng
 
