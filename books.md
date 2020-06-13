@@ -7,9 +7,10 @@
 * **Yes To Life**. Victor E. Frankl
 * **Old Path White Clouds (Đường xưa mây trắng)**. Thich Nhat Hanh
 
-### Python books
+### Programming books
 * **Effective Python**. Brett Slatkin
 * **Python Tricks**. Dan Bader
+* **The Art of Readable Code**. Dustin Boswell and Trevor Foucher
 
 ### Data Science and Machine learning
 * **Mining Social Media**. Lam Thuy Vo
