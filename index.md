@@ -18,9 +18,11 @@ My name is Ly Vu Duc, and I am from Binh Phuoc, Vietnam. Currently, I am a Ph.D 
 ### Translations
 * [wtfpython in Vietnamese](https://github.com/vuduclyunitn/wtfptyhon-vi)
 
-### [Books I have read](books.md)
+### [Favourite books]
+* [books](books.md)
 
-### [Medium posts](https://medium.com/@vuducly151092)
+### Medium posts
+* [@vuducly151092](https://medium.com/@vuducly151092)
 
 ### Publications
 
