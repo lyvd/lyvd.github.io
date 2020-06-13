@@ -5,6 +5,7 @@
 * **The Design of Everyday Things**. Don Norman
 * **The Master Key System**. Charles F Haanel
 * **Yes To Life**. Victor E. Frankl
+* **Old Path White Clouds (Đường xưa mây trắng)**. Thich Nhat Hanh
 
 ### Python books
 * **Effective Python**. Brett Slatkin
