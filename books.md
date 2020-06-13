@@ -22,3 +22,7 @@
 * **What I Talk About When I Talk About Running**. Haruki Murakami
 * **A Wild Sheep Chase**. Haruki Murakami
 
+## Historic Books
+* **The Winning Side (Ben Thang Cuoc)**. Huy Duc
+* **Den Cu**. Tran Dinh
+
