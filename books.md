@@ -16,6 +16,7 @@
 * **Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More**. Julien Danjou
 * **Python One-Liners: Write Concise, Eloquent Python Like a Professional**. Christian Mayer
 * **Cracking Codes with Python: An Introduction to Building and Breaking Ciphers**. Al Sweigart
+* **Effective Programming: More Than Writing Code**. Jeff Atwood
 
 ### Data Science and Machine learning
 * **Mining Social Media**. Lam Thuy Vo
