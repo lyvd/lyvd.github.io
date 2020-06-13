@@ -20,6 +20,9 @@
 * **Storytelling With Data: A Data Visualization Guide for Business Professionals**. Cole Nussbaumer Knaflic
 * **Deep Learning with Python**. François Chollet
 
+### Security books
+* **Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software**. Andrew Honig and Michael Sikorski
+
 ### Novel books
 * **1Q84**. Haruki Murakami
 * **Kafa on The Shore**. Haruki Murakami
