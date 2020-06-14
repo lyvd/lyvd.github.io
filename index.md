@@ -20,7 +20,7 @@ I like writing free open-source software to support communities
 * [Springer books downloader](https://colab.research.google.com/drive/1iWB0jiwFGP3mWXj9lDyugg3OcA6jKpU_): Automatically downloading free books from Springer using Python
 
 ### Translations
-In my spare time, I like translating technical articles from English to Vietnames
+In my spare time, I like translating technical articles from English to Vietnamese
 * [wtfpython in Vietnamese](https://github.com/vuduclyunitn/wtfptyhon-vi)
 * [The Little Book of Python Anti-Patterns in Vietnamese](https://colab.research.google.com/github/vuduclyunitn/learning_python/blob/master/Anti_patterns.ipynb). 
 
