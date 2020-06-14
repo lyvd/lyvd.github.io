@@ -10,6 +10,7 @@ My name is Ly Vu Duc, and I am from Binh Phuoc, Vietnam. Currently, I am a Ph.D 
 ### Industrial Experience
 * 2009-2010: I worked at [BHKTech](https://bhk.vn/), where I did setup, maintain, and penenetrate different enterprise systems.
 * 2019~2020: I spent around six months during an internship at SAP Labs France about software supply chain attacks. Particularly, I have been researching methods to detect malicious Python packages. 
+* 2017~current: I am an Early Stage Researcher of the [European Network for Cyber Security (NECS)](https://www.necs-project.eu)
 
 ### Software
 * [C2Ass](https://github.com/lyvd/C2Ass): Simulation of an assembly code using [Keystone engine](https://www.keystone-engine.org/)
