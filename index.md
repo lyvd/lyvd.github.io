@@ -40,4 +40,4 @@ In my spare time, I like translating technical articles from English to Vietname
 * <ins>Duc‐Ly Vu</ins>, Efficient Malware Classification Techniques Using Integrated Statc and Dynamic Indicators. Master Thesis, Hongik University, 2017
  
 ### My contact
-You can contact me via email [ducly.vu@unitn.it](mailto:ducly.vu@unitn.it) or [vuducly151092@gmail.com](mailto:vuducly151092@gmail.com) or tweet me [vuly16](https://twitter.com/vuly16)
+You can contact me via email [ducly.vu@unitn.it](mailto:ducly.vu@unitn.it) or [vuducly151092@gmail.com](mailto:vuducly151092@gmail.com) or tweet me [vuly16](https://twitter.com/vuly16), or [facebook](https://www.facebook.com/vuly16/), or [Linkedin](https://www.linkedin.com/in/ly-vu-865b5819b/)
