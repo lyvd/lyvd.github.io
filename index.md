@@ -8,13 +8,14 @@ My name is Ly Vu Duc, and I am from Binh Phuoc, Vietnam. Currently, I am a Ph.D 
 * 2017~Current: Ph.D student Information Security at University of Trento, Italy  
 
 ### Industrial Experience
-* 2009-2010: I worked at [BHKTech](https://bhk.vn/), where I did setup, maintain, and penenetrate different enterprise systems.
+* 2009-2010: I worked at [BHKTech](https://bhk.vn/), where I did setup, maintain, and penetrate different enterprise systems.
 * 2019~2020: I spent around six months during an internship at SAP Labs France about software supply chain attacks. Particularly, I have been researching methods to detect malicious Python packages. 
 * 2017~current: I am an Early Stage Researcher of the [European Network for Cyber Security (NECS)](https://www.necs-project.eu)
 
 ### Software
 * [C2Ass](https://github.com/lyvd/C2Ass): Simulation of an assembly code using [Keystone engine](https://www.keystone-engine.org/)
-* [hit4mal](https://github.com/vuduclyunitn/image_based_malware_detection): A modified version of [scurve](https://github.com/cortesi/scurve) to capture semantic information of malwre using image processing.
+* [hit4mal](https://github.com/vuduclyunitn/image_based_malware_detection): A modified version of [scurve](https://github.com/cortesi/scurve) to capture semantic information of malware using image processing.
+* [virustotalIntellgence](https://github.com/lyvd/virustotalIntellgence): A scanning tool supports detecting virus/malware by using VirusTotal.
 
 ### Translations
 * [wtfpython in Vietnamese](https://github.com/vuduclyunitn/wtfptyhon-vi)
