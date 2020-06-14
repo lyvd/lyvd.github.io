@@ -13,11 +13,13 @@ My name is Ly Vu Duc, and I am from Binh Phuoc, Vietnam. Currently, I am a Ph.D 
 * 2017~current: I am an Early Stage Researcher of the [European Network for Cyber Security (NECS)](https://www.necs-project.eu)
 
 ### Software
+I like writing free open-source software to support communities
 * [C2Ass](https://github.com/lyvd/C2Ass): Simulation of an assembly code using [Keystone engine](https://www.keystone-engine.org/)
 * [hit4mal](https://github.com/vuduclyunitn/image_based_malware_detection): A modified version of [scurve](https://github.com/cortesi/scurve) to capture semantic information of malware using image processing.
 * [virustotalIntellgence](https://github.com/lyvd/virustotalIntellgence): A scanning tool supports detecting virus/malware by using VirusTotal.
 
 ### Translations
+In my spare time, I like translating technical articles from English to Vietnames
 * [wtfpython in Vietnamese](https://github.com/vuduclyunitn/wtfptyhon-vi)
 * [The Little Book of Python Anti-Patterns in Vietnamese](https://colab.research.google.com/github/vuduclyunitn/learning_python/blob/master/Anti_patterns.ipynb). 
 
