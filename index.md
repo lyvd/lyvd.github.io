@@ -17,6 +17,7 @@ I like writing free open-source software to support communities
 * [C2Ass](https://github.com/lyvd/C2Ass): Simulation of an assembly code using [Keystone engine](https://www.keystone-engine.org/)
 * [hit4mal](https://github.com/vuduclyunitn/image_based_malware_detection): A modified version of [scurve](https://github.com/cortesi/scurve) to capture semantic information of malware using image processing.
 * [virustotalIntellgence](https://github.com/lyvd/virustotalIntellgence): A scanning tool supports detecting virus/malware by using VirusTotal.
+* [Springer books downloader](https://colab.research.google.com/drive/1iWB0jiwFGP3mWXj9lDyugg3OcA6jKpU_): Automatically downloading free books from Springer using Python
 
 ### Translations
 In my spare time, I like translating technical articles from English to Vietnames
@@ -29,8 +30,7 @@ In my spare time, I like translating technical articles from English to Vietname
 ### Medium posts
 * [@vuducly151092](https://medium.com/@vuducly151092)
 
-### Publications
-
+### Publications 
 * Ivan Pashchenko, <ins>Duc-Ly Vu</ins>, Fabio Massacci. **A Qualitative Study of Dependency Management and Its Security Implications**, To Appear in Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2020
 * Ivan Pashchenko, <ins>Duc-Ly Vu</ins>, Fabio Massacci. **[Poster]Preliminary Findings on FOSS Dependencies and Security A Qualitative Study on Developers’ Attitudes and Experience**. In Proceedings of the 42nd International Conference on Software Engineering (ICSE), 2020
 * <ins>Duc‐Ly Vu</ins>, Trong‐Kha Nguyen, Tam V Nguyen, Tu N Nguyen, Fabio Massacci, Phu H Phung. **HIT4Mal: Hybrid image transformation for malware classification**. Transactions on Emerging Telecommunications Technologies, 2019
