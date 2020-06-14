@@ -18,7 +18,8 @@ I like writing free open-source software to support communities
 * [hit4mal](https://github.com/vuduclyunitn/image_based_malware_detection): A modified version of [scurve](https://github.com/cortesi/scurve) to capture semantic information of malware using image processing.
 * [virustotalIntellgence](https://github.com/lyvd/virustotalIntellgence): A scanning tool supports detecting virus/malware by using VirusTotal.
 * [Springer books downloader](https://colab.research.google.com/drive/1iWB0jiwFGP3mWXj9lDyugg3OcA6jKpU_): Automatically downloading free books from Springer using Python
-* [Pdf to txt converter](https://colab.research.google.com/drive/1OqznFIgudxLjziTiBWLhFHRV4UNl3I-e): How to automatically convert pdf files to txt files
+* [Pdf to txt converter](https://colab.research.google.com/drive/1OqznFIgudxLjziTiBWLhFHRV4UNl3I-e): Automatically convert pdf files to txt files
+* [Compressed file reader](https://colab.research.google.com/drive/15wwlGYN-1ScYu21rnNUiwSY_lb2KD38s): Read files in a compressed archive
 
 ### Translations
 In my spare time, I like translating technical articles from English to Vietnamese
