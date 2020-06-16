@@ -37,7 +37,9 @@
 * **The Reader**. Bernhard Schlink
 * **The Da Vinci Code**. Dan Brown
 * **Deception Point**. Dan Brown
-* **The Lost Symbol**. Dan Browns
+* **The Lost Symbol**. Dan Brown
+* **Angels and Demons**. Dan Brown
+
 ## Historic Books
 * **The Winning Side (Ben Thang Cuoc)**. Huy Duc
 * **Den Cu**. Tran Dinh
