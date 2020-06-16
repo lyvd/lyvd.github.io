@@ -35,6 +35,7 @@
 * **What I Talk About When I Talk About Running**. Haruki Murakami
 * **A Wild Sheep Chase**. Haruki Murakami
 * **The Reader**. Bernhard Schlink
+* **The Da Vinci Code**. Dan Brown
 
 ## Historic Books
 * **The Winning Side (Ben Thang Cuoc)**. Huy Duc
