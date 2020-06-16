@@ -34,6 +34,7 @@
 * **Norwegian Wood**. Haruki Murakami
 * **What I Talk About When I Talk About Running**. Haruki Murakami
 * **A Wild Sheep Chase**. Haruki Murakami
+* **The Reader**. Bernhard Schlink
 
 ## Historic Books
 * **The Winning Side (Ben Thang Cuoc)**. Huy Duc
