@@ -34,6 +34,7 @@ In my spare time, I like translating technical articles from English to Vietname
 
 ### Publications 
 
+* <ins>Duc-Ly Vu</ins>. **What Developers Want for FOSS Dependency Management? Open Problems from a Qualitative Study**. REFSQ 2020 Doctoral Symposium. 
 * <ins>Duc-Ly Vu</ins>, Ivan Pashchenko, Fabio Massacci, Henrik Plate, Antonino Sabetta. **Typosquatting and Combosquatting Attacks on the Python Ecosystem**. To Appear in Proceedings of the IEEE European Symposium on Security and Privacy Workshops (EuroS&PW), 2020
 * Ivan Pashchenko, <ins>Duc-Ly Vu</ins>, Fabio Massacci. **A Qualitative Study of Dependency Management and Its Security Implications**. To Appear in Proceedings of the ACM Conference on Computer and Communications Security (CCS), 2020
 * Ivan Pashchenko, <ins>Duc-Ly Vu</ins>, Fabio Massacci. **[Poster] Preliminary Findings on FOSS Dependencies and Security A Qualitative Study on Developers’ Attitudes and Experience**. In Proceedings of the 42nd International Conference on Software Engineering (ICSE), 2020
