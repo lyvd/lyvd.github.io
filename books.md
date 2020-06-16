@@ -36,6 +36,7 @@
 * **A Wild Sheep Chase**. Haruki Murakami
 * **The Reader**. Bernhard Schlink
 * **The Da Vinci Code**. Dan Brown
+* **Deception Point**. Dan Brown
 
 ## Historic Books
 * **The Winning Side (Ben Thang Cuoc)**. Huy Duc
