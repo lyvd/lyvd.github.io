@@ -43,4 +43,4 @@
 ## Other books
 * **The Craft of Research**. Wayne C. Booth
 * **The Art of Doing Science and Engineering: Learning to Learn**. Richard Hamming
-
+* **Write Effective Emails At Works**. Ramakrishna Reddy
