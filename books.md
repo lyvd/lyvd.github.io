@@ -6,7 +6,7 @@
 * **The Master Key System**. Charles F Haanel
 * **Yes To Life**. Victor E. Frankl
 * **Old Path White Clouds (Đường xưa mây trắng)**. Thich Nhat Hanh
-
+* **Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones**. James Clear
 ### Programming books
 * **Effective Python**. Brett Slatkin
 * **Python Tricks**. Dan Bader
