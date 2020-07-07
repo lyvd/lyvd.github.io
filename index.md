@@ -25,7 +25,7 @@ I like writing free open-source software to support communities
 In my spare time, I like translating technical articles from English to Vietnamese
 * [wtfpython in Vietnamese](https://github.com/vuduclyunitn/wtfptyhon-vi)
 * [The Little Book of Python Anti-Patterns in Vietnamese](https://colab.research.google.com/github/vuduclyunitn/learning_python/blob/master/Anti_patterns.ipynb). 
-
+* [IntermediatePython in Vietnamese](https://github.com/lyvd/intermediatePython-vi) (In translating).
 ### Favourite books
 * [books](books.md)
 
