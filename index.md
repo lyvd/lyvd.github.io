@@ -21,6 +21,11 @@ I like writing free open-source software to support communities
 * [Pdf to txt converter](https://colab.research.google.com/drive/1OqznFIgudxLjziTiBWLhFHRV4UNl3I-e): Automatically convert pdf files to txt files
 * [Compressed file reader](https://colab.research.google.com/drive/15wwlGYN-1ScYu21rnNUiwSY_lb2KD38s): Read files in a compressed archive
 * [OSSquat](https://github.com/lyvd/OSSquat): A tool to detect typosquatting in open source ecosystems (In development)
+
+### Teaching
+I teach some courses about Python programming in Vietnamese
+* [Python for system and network administrator](https://github.com/lyvd/PythonClass)
+
 ### Translations
 In my spare time, I like translating technical articles from English to Vietnamese
 * [wtfpython in Vietnamese](https://github.com/vuduclyunitn/wtfptyhon-vi)
