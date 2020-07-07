@@ -45,6 +45,9 @@
 * **Den Cu**. Tran Dinh
 * **When the Allies Ran Away (Khi đồng minh tháo chạy)**. Nguyễn Tiến Hưng
 
+## Language Books
+* **Speak English: Beginner's Guide to Everyday Conversation.** Yogesh Vermani
+
 ## Other books
 * **The Craft of Research**. Wayne C. Booth
 * **The Art of Doing Science and Engineering: Learning to Learn**. Richard Hamming
