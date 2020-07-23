@@ -3,6 +3,29 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
 * {
   box-sizing: border-box;
 }
@@ -76,25 +99,36 @@ body {
 </head>
 <body>
 
-<div class="header">
-  <h2>Vu Duc Ly</h2>
-</div>
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="publications.html">Publications</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
 
 <div class="row">
   <div class="leftcolumn">
     <div class="card">
-      <h2>TITLE HEADING</h2>
-      <h5>Title description, Dec 7, 2017</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <h2>My Research</h2>
+      <!-- <h5>Title description, Dec 7, 2017</h5> -->
+      <!-- <div class="fakeimg" style="height:200px;">Image</div> -->
+      <p>I do researches on the security of open-source software. In particular, I am intersted in
+      understanding the threats in using the open-source software including malicious software,
+      security vulnerabilties. </p>
     </div>
     <div class="card">
-      <h2>TITLE HEADING</h2>
-      <h5>Title description, Sep 2, 2017</h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
-      <p>Some text..</p>
-      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+      <h2>My hobiess</h2>
+      <!-- <h5>Title description, Sep 2, 2017</h5> -->
+      <!-- <div class="fakeimg" style="height:200px;">Image</div> -->
+      <p>I like reading books, playing guitar</p>
+      <!-- <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p> -->
+    </div>
+    <div class="card">
+      <h2>My Education</h2>
+      <!-- <h5>Title description, Sep 2, 2017</h5> -->
+      <!-- <div class="fakeimg" style="height:200px;">Image</div> -->
+      <p>I like reading books, playing guitar</p>
+      <!-- <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p> -->
     </div>
   </div>
   <div class="rightcolumn">
