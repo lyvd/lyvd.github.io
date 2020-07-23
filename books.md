@@ -7,6 +7,8 @@
 * **Yes To Life**. Victor E. Frankl
 * **Old Path White Clouds (Đường xưa mây trắng)**. Thich Nhat Hanh
 * **Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones**. James Clear
+* **THINK STRAIGHT: Change Your Thoughts, Change Your Life** by Darius Foroux
+
 ### Programming books
 * **Effective Python**. Brett Slatkin
 * **Python Tricks**. Dan Bader
