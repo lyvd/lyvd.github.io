@@ -1,5 +1,16 @@
 ### About me
 
+<div class="header home-header">
+    <div class="Grid container">
+        <div id="header-text" class="Grid-cell u-size7of8">
+            <h1 class="subheading">
+                <a href="https://twitter.com/TwitterOSS" target="_blank">@TwitterOSS</a>
+            </h1>
+            <h1 class="large-title">Open Source is Happening</h1>
+        </div>
+    </div>
+</div>
+
 My name is Ly Vu Duc, and I am from Binh Phuoc, Vietnam. Currently, I am a Ph.D student at the Univerisity of Trento under the supervision of Prof. Fabio Massacci. 
 
 ### Education
