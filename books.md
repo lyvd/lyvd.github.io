@@ -20,6 +20,7 @@
 * **Cracking Codes with Python: An Introduction to Building and Breaking Ciphers**. Al Sweigart
 * **Effective Programming: More Than Writing Code**. Jeff Atwood
 * **BEYOND THE BASIC STUFF WITH PYTHON**. Al Sweigart
+* **The Pragmatic Programmer** . Andy Hunt and Dave Thomas
 
 ### Data Science and Machine learning
 * **Mining Social Media**. Lam Thuy Vo
