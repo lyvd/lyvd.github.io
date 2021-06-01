@@ -21,7 +21,8 @@
 * **Effective Programming: More Than Writing Code**. Jeff Atwood
 * **BEYOND THE BASIC STUFF WITH PYTHON**. Al Sweigart
 * **The Pragmatic Programmer** . Andy Hunt and Dave Thomas
-
+* **Fluent Python Second edition**. Luciano Ramalho
+* 
 ### Data Science and Machine learning
 * **Mining Social Media**. Lam Thuy Vo
 * **Data Science for Business**. Foster Provost and Tom Fawcett
